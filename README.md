@@ -7,11 +7,17 @@ This repository contains a collection of basic computer vision operations and au
 # Prerequisites
 
 kornia==0.6.10
+
 matplotlib==3.7.1
+
 numpy==1.24.2
+
 opencv-python==4.7.0.72
+
 Pillow==9.4.0
+
 torch==2.0.0
+
 torchvision==0.15.1
 
 # Installation
