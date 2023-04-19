@@ -48,3 +48,8 @@ RandomCrop
 
 This function applies a random crop to an image. It takes a torch tensor img_t as input and crops the image to a random size and location. The function returns the cropped image as a torch tensor.
 
+# License
+
+This project is licensed under the Apache License 2.0. For more information, please refer to the LICENSE file in the root of this repository.
+
+Apache License 2.0
